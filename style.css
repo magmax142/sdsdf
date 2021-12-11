@@ -1,0 +1,32 @@
+body{
+    font-family: 'Special Elite', cursive;
+    background-color: rgb(53, 50, 205);
+}
+.header_div{
+    background-color: turquoise;
+    color: rgb(116, 4, 131);
+}
+.header_div p{
+    color: seashell;
+    font-family: 'Roboto',sans-serif;
+    letter-spacing: 2px;
+    font-weight: bold;
+}
+.main_div button{
+    margin-top: 30px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+    font-size: 15px;
+}
+.footer{
+    bottom: 0;
+    position: fixed;
+    background-color: mediumslateblue;
+    width: 100%;
+    text-align: center;
+    line-height: 3;
+    font-size: larger;
+}
+.header_div h2{
+    text-shadow: 10px 5px 5px slategray;
+}
